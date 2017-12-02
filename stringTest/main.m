@@ -35,6 +35,7 @@ int main(int argc, const char * argv[]) {
                 [theArray addObject: fileName];
             }
         }
+        NSLog(@"meow");
         
         // theArray at this point contains all the filenames
         
